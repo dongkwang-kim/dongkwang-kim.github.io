@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Initiated my academic page!
+I'll be attending VLDB 2024 in Guangzhou, PRC, as a participant this year. I hope to present my own work at next year's conference:blush:

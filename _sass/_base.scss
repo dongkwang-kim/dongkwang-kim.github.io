@@ -227,6 +227,14 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+@media (max-width: 575px) {
+  .profile img {
+    width: 100%; /* Ensures image uses the full width of its container */
+    max-width: 100%; /* Prevents image from exceeding its container's width */
+    height: auto; /* Maintains aspect ratio */
+  }
+}
+
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;
