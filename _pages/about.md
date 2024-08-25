@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: dongkwang [dot] kim [at] snu [dot] ac [dot] kr
 
 profile:
   align: right
@@ -15,6 +15,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a second-year MS student in [Graduate School of Data Science](https://gsds.snu.ac.kr/) at [Seoul National University](https://en.snu.ac.kr/), where I am advised by [Prof. Hyungsoo Jung](https://hyungsoo-jung.github.io/). Before my study, I served as Deputy Director at [Ministry of Foreign Affairs, Republic of Korea](https://www.mofa.go.kr/eng/index.do) for four and half years. I got my bachelor's degree in Sociology(minor: Korean Language and Literature) also at Seoul National University.
-
-My research interest is in memory and storage systems to accelerate AI/ML workload. 
+I am a second-year master's student in the [Graduate School of Data Science](https://gsds.snu.ac.kr/) at [Seoul National University](https://en.snu.ac.kr/), advised by [Professor Hyungsoo Jung](https://hyungsoo-jung.github.io/). Before starting my studies, I served as Deputy Director at the [Ministry of Foreign Affairs of the Republic of Korea](https://www.mofa.go.kr/eng/index.do) for four and a half years. I earned my bachelor's degree in Sociology, with a minor in Korean Language and Literature, also from Seoul National University. My research focuese on memory and storage systems to accelerate AI/ML workloads. 
